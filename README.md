@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/tanzeeltechibits/gif/blob/master/JXA0.gif" alt="Animated README">
+  <img src="https://github.com/abdulmateentechbits/gif/blob/master/JXA0.gif" alt="Animated README">
 </p>
-<h1 align="center">:wave: Hi! I'm Abdul Mateen :wave:</h1>
+<h1 align="center">:wave: Hi! I'm Tanzeel Ahmad :wave:</h1>
 <p align="center">
   <a href="https://techibits.com/abdul-mateen/"><img src="https://img.shields.io/badge/Portfolio-blue" alt="Website"></a>
   <a href="https://twitter.com/mateenchitrali"><img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter"></a>
@@ -31,7 +31,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 <h2 align="center">:rocket: Featured Project: react-native-boilerplate :rocket:</h2>
 <p align="left">
-  The repository "react-native-boilerplate" by Abdul Mateen is a comprehensive boilerplate project for React Native applications. It provides a solid foundation and structure to kickstart your React Native projects, saving you time and effort in setting up the initial project structure and configurations.
+  The repository "react-native-boilerplate" by Tanzeel Ahmad is a comprehensive boilerplate project for React Native applications. It provides a solid foundation and structure to kickstart your React Native projects, saving you time and effort in setting up the initial project structure and configurations.
 This boilerplate includes essential features and common libraries typically used in React Native development, such as navigation, state management, and API integration. It follows best practices and conventions, making it easier to maintain and scale your React Native applications.
 By using this boilerplate, you can focus more on building your app's unique features and logic instead of spending time on repetitive setup tasks. It provides a standardized and organized project structure, ensuring code readability and maintainability.
 Whether you are starting a new React Native project or looking for a solid foundation to improve your existing project structure, this repository can serve as an excellent starting point. It allows you to accelerate your development process, reduce boilerplate code, and benefit from the expertise of the React Native community.
