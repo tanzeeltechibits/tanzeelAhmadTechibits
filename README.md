@@ -25,7 +25,7 @@ Let's connect and discuss how I can contribute to your **web** 𝙖𝙥𝙥 𝙢
 <p align="center">
   Let's connect and collaborate! Feel free to reach out via email or any of the social links above.
 </p>
----
+ 
 <p align="center">
   <img src="https://github.com/abdulmateentechbits/gif/blob/master/7LDs.gif" alt="Project Preview">
 </p>
@@ -40,7 +40,7 @@ You can explore the repository, follow the installation instructions, and adapt 
 <p align="center">
   Check out the project on GitHub: https://github.com/tanzeeltechibits/react-native-boilerplate
 </p>
----
+ 
 <p align="center">
   <img src="https://i.gifer.com/BOuY.gif" alt="Skills">
 </p>
@@ -52,7 +52,7 @@ You can explore the repository, follow the installation instructions, and adapt 
   - Laravel
   - Cross-Platform Development
 </p>
----
+ 
 <p align="center">
   <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/stats.gif" alt="Stats">
 </p>
@@ -63,7 +63,7 @@ You can explore the repository, follow the installation instructions, and adapt 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeeltechibits&theme=radical" alt="GitHub Streak">
 </p>
----
+ 
 <p align="center">
   <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
 </p>
@@ -71,7 +71,7 @@ You can explore the repository, follow the installation instructions, and adapt 
 <p align="center">
   Describe your involvement in open source projects, contributions made, and any notable achievements or recognition received. Encourage others to collaborate or contribute to open source as well.
 </p>
----
+ 
 <p align="center">
   <img src="https://github.com/abdulmateentechbits/gif/blob/master/boy.gif" alt="Visitors">
 </p>
@@ -85,5 +85,5 @@ Once again, thank you for your interest and I look forward to hearing from you s
 </p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/tanzeeltechibits/count.svg" alt="Visitor Count">
- <!---    <img src="https://komarev.com/ghpvc/?username=tanzeeltechibits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count"> --->
+ <!     <img src="https://komarev.com/ghpvc/?username=tanzeeltechibits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count">  >
 </p>
