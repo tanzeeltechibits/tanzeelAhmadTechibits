@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/gif/blob/master/JXA0.gif" alt="Animated README">
+  <img src="https://github.com/tanzeeltechibits/gif/blob/master/JXA0.gif" alt="Animated README">
 </p>
 <h1 align="center">:wave: Hi! I'm Abdul Mateen :wave:</h1>
 <p align="center">
@@ -10,7 +10,7 @@
 <!-- Add the audio player here -->
 <p align="center">
   <audio controls>
-    <source src="https://github.com/abdulmateentechbits/abdulmateentechbits/blob/master/Relaxing%20Music%20(No%20Copyright)%20-%20_Shine_%20by%20Onycs.mp3" type="audio/mpeg">
+    <source src="https://github.com/tanzeeltechibits/tanzeeltechibits/blob/master/Relaxing%20Music%20(No%20Copyright)%20-%20_Shine_%20by%20Onycs.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </p>
@@ -27,7 +27,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/gif/blob/master/7LDs.gif" alt="Project Preview">
+  <img src="https://github.com/tanzeeltechibits/gif/blob/master/7LDs.gif" alt="Project Preview">
 </p>
 <h2 align="center">:rocket: Featured Project: react-native-boilerplate :rocket:</h2>
 <p align="left">
@@ -38,7 +38,7 @@ Whether you are starting a new React Native project or looking for a solid found
 Feel free to explore the repository, follow the installation instructions, and adapt it to your specific project requirements. Happy coding!
 </p>
 <p align="center">
-  Check out the project on GitHub: https://github.com/abdulmateentechbits/react-native-boilerplate
+  Check out the project on GitHub: https://github.com/tanzeeltechibits/react-native-boilerplate
 </p>
 ---
 <p align="center">
@@ -55,18 +55,18 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/stats.gif" alt="Stats">
+  <img src="https://github.com/tanzeeltechibits/your-repo/raw/main/assets/stats.gif" alt="Stats">
 </p>
 <h2 align="center">:bar_chart: GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmateentechbits&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzeeltechibits&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmateentechbits&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeeltechibits&theme=radical" alt="GitHub Streak">
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
+  <img src="https://github.com/tanzeeltechibits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
 </p>
 <h2 align="center">:handshake: Contributions & Open Source :handshake:</h2>
 <p align="center">
@@ -74,7 +74,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/abdulmateentechbits/gif/blob/master/boy.gif" alt="Visitors">
+  <img src="https://github.com/tanzeeltechibits/gif/blob/master/boy.gif" alt="Visitors">
 </p>
 <h2 align="center">:eyes: Thanks for stopping by! :eyes:</h2>
 <p align="center">
@@ -85,6 +85,6 @@ Once again, thank you for your interest and I look forward to hearing from you s
 </p>
 </p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/abdulmateentechbits/count.svg" alt="Visitor Count">
- <!---    <img src="https://komarev.com/ghpvc/?username=abdulmateentechbits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count"> --->
+<img src="https://profile-counter.glitch.me/tanzeeltechibits/count.svg" alt="Visitor Count">
+ <!---    <img src="https://komarev.com/ghpvc/?username=tanzeeltechibits&label=DAILY+PROFILE+VIEWS" alt="Visitor Count"> --->
 </p>
