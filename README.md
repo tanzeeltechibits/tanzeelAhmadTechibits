@@ -15,11 +15,11 @@
   </audio>
 </p>
 <p align="left">
-  Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
-My top priority is keeping your mobile apps running smoothly and ensuring they are compatible with the latest operating systems and devices. I have a proven track record of efficiently updating React 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.
-In addition to my mobile app focus, I possess in-depth knowledge of 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨, 𝙉𝙚𝙭𝙩.𝙟𝙨, and 𝙇𝙖𝙧𝙖𝙫𝙚𝙡. Leveraging these technologies, I develop robust and performant web applications that seamlessly integrate with your mobile apps. By prioritizing mobile app maintenance first, I ensure that your entire digital ecosystem remains up to date, providing a consistent and user-friendly experience across platforms.
-I thrive on collaborating with clients to understand their unique requirements and provide tailored solutions. As an experienced React Native Developer, I excel in creating new features, enhancing app performance, and troubleshooting issues. With a commitment to delivering top-notch service and ensuring timely project completion, I prioritize client satisfaction.
-Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚 needs and help you stay ahead in the ever-evolving digital landscape.
+  Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in web development and maintenance. I ensure that your web apps are up-to-date, fully functional, and optimized for the best user experience.
+My top priority is keeping your web app running smoothly and ensuring they are compatible with the latest browser and devices. I have a proven track record of efficiently updating 𝙍𝙚𝙖𝙘𝙩 𝙖𝙥𝙥𝙨 to the latest versions, incorporating new features and enhancements while preserving stability.
+In addition, I possess in-depth knowledge of 𝙍𝙚𝙖𝙘𝙩.𝙟𝙨 and 𝙇𝙖𝙧𝙖𝙫𝙚𝙡. Leveraging these technologies, I develop robust and performant web applications that seamlessly work.
+I thrive on collaborating with clients to understand their unique requirements and provide tailored solutions. As an experienced React Developer, I excel in creating new features, enhancing web app performance, and troubleshooting issues. With a commitment to delivering top-notch service and ensuring timely project completion, I prioritize client satisfaction.
+Let's connect and discuss how I can contribute to your **web** 𝙖𝙥𝙥 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚 needs and help you stay ahead in the ever-evolving digital landscape.
 <b>Here, you'll find a collection of my projects, contributions, and explorations in the world of coding and beyond.</b>
 </p>
 <p align="center">
@@ -31,11 +31,11 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 <h2 align="center">:rocket: Featured Project: react-native-boilerplate :rocket:</h2>
 <p align="left">
-  The repository "react-native-boilerplate" by Tanzeel Ahmad is a comprehensive boilerplate project for React Native applications. It provides a solid foundation and structure to kickstart your React Native projects, saving you time and effort in setting up the initial project structure and configurations.
-This boilerplate includes essential features and common libraries typically used in React Native development, such as navigation, state management, and API integration. It follows best practices and conventions, making it easier to maintain and scale your React Native applications.
-By using this boilerplate, you can focus more on building your app's unique features and logic instead of spending time on repetitive setup tasks. It provides a standardized and organized project structure, ensuring code readability and maintainability.
-Whether you are starting a new React Native project or looking for a solid foundation to improve your existing project structure, this repository can serve as an excellent starting point. It allows you to accelerate your development process, reduce boilerplate code, and benefit from the expertise of the React Native community.
-Feel free to explore the repository, follow the installation instructions, and adapt it to your specific project requirements. Happy coding!
+  The repository "react-boilerplate" by Tanzeel Ahmad is a comprehensive boilerplate project for React web applications. It provides a solid foundation and structure to kickstart your React projects, saving you time and effort in setting up the initial project structure and configurations.
+This boilerplate includes essential features and standard libraries typically used in React development, such as navigation, state management, and API integration. It follows best practices and conventions, making it easier to maintain and scale your React web applications.
+By using this boilerplate, you can focus more on building your web app's unique features and logic instead of spending time on repetitive setup tasks. It provides a standardized and organized project structure, ensuring code readability and maintainability.
+Whether you are starting a new React project or looking for a solid foundation to improve your existing project structure, this repository can be an excellent starting point. It allows you to accelerate your development process, reduce boilerplate code, and benefit from the expertise of the React community.
+You can explore the repository, follow the installation instructions, and adapt it to your specific project requirements. Happy coding!
 </p>
 <p align="center">
   Check out the project on GitHub: https://github.com/tanzeeltechibits/react-native-boilerplate
@@ -46,11 +46,10 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 <h2 align="center">:briefcase: Skills & Technologies :briefcase:</h2>
 <p align="center">
-  - React Native Development
+  - HTML5 & CSS3
+  - JS
   - React.js
-  - Next.js
   - Laravel
-  - App Maintenance for Play Store & App Store
   - Cross-Platform Development
 </p>
 ---
