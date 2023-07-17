@@ -27,7 +27,7 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/tanzeeltechibits/gif/blob/master/7LDs.gif" alt="Project Preview">
+  <img src="https://github.com/abdulmateentechbits/gif/blob/master/7LDs.gif" alt="Project Preview">
 </p>
 <h2 align="center">:rocket: Featured Project: react-native-boilerplate :rocket:</h2>
 <p align="left">
@@ -55,7 +55,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/tanzeeltechibits/your-repo/raw/main/assets/stats.gif" alt="Stats">
+  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/stats.gif" alt="Stats">
 </p>
 <h2 align="center">:bar_chart: GitHub Stats :bar_chart:</h2>
 <p align="center">
@@ -66,7 +66,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/tanzeeltechibits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
+  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
 </p>
 <h2 align="center">:handshake: Contributions & Open Source :handshake:</h2>
 <p align="center">
@@ -74,7 +74,7 @@ Feel free to explore the repository, follow the installation instructions, and a
 </p>
 ---
 <p align="center">
-  <img src="https://github.com/tanzeeltechibits/gif/blob/master/boy.gif" alt="Visitors">
+  <img src="https://github.com/abdulmateentechbits/gif/blob/master/boy.gif" alt="Visitors">
 </p>
 <h2 align="center">:eyes: Thanks for stopping by! :eyes:</h2>
 <p align="center">
